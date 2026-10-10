@@ -13,6 +13,7 @@ A fork of [Orbit Store](https://github.com/saawant12/orbit-store-ps5) by saawant
 - **Install without the free space.** Packages install straight to console storage. Nothing is saved to a drive first, so a 90 GB game no longer needs 180 GB free.
 - **My SMB.** Point Orbit at a network share and browse it like a file manager. Install any package you find.
 - **My USB.** Drives attached to the console are picked up automatically. No setup.
+- **My Links.** Paste a direct download link and Orbit reads the package over the network — title, title ID and size come from the file itself. Nothing to type. Scan the QR code in the TV app to paste links from your phone.
 - **Names and covers that are right.** Title, name and artwork are read from inside the package, whatever the file happens to be called.
 - **A library that matches the console.** Installed games are read from the console itself, so everything you have installed shows up.
 - **A warning before you reinstall.** Installing something you already have asks once before going ahead.
